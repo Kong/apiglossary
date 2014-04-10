@@ -8,7 +8,7 @@ An educational and collaborative project with the mission to help define a new A
 ## Contributing
 *Feedback, suggestions and lively discussion are highly encouraged.*
 
-Everyone is welcome to contribute through a submitting a pull request, opening an issue or just sharing the project.
+Everyone is welcome to contribute by submitting a pull request, opening an issue or sharing the project.
 
 Existing terms are located in the `/terms` directory and described using YAML frontmatter & markdown.
 
