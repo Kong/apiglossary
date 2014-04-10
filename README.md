@@ -1,8 +1,16 @@
 # API Glossary
-An ambitious project to collectively help define API related terminology. *Feedback, suggestions and lively discussion are highly encouraged.*
+An educational and collaborative project with the mission to help define a new API industry. 
+
+- Get the foundational knowledge you need to dive right into API use, design, and development.
+- Explain APIs and related technology to a nontechs, without mumbling something from the RFC.
+- Develop your own API using industry leading standards, design patterns and documentation.
 
 ## Contributing
-Anyone can contribute through a submitting a pull request or by opening an issue. Terms are located in the `/terms` directory and described using YAML frontmatter & markdown.
+*Feedback, suggestions and lively discussion are highly encouraged.*
+
+Everyone is welcome to contribute through a submitting a pull request, opening an issue or just sharing the project.
+
+Existing terms are located in the `/terms` directory and described using YAML frontmatter & markdown.
 
 ```md
 ---
