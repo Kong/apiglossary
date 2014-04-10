@@ -6,11 +6,10 @@ An educational and collaborative project with the mission to help define a new A
 - Develop your own API using industry leading standards, design patterns and documentation.
 
 ## Contributing
-*Feedback, suggestions and lively discussion are highly encouraged.*
 
-Everyone is welcome to contribute by submitting a pull request, opening an issue or sharing the project.
+Everyone is welcome to contribute by submitting a pull request, opening an issue or sharing the project. *Any and all feedback, suggestions and lively discussions are highly encouraged.*
 
-Existing terms are located in the `/terms` directory and described using YAML frontmatter & markdown.
+Existing terms are located in the [`terms`](https://github.com/Mashape/apiglossary/tree/master/terms "View existing terms or add your own.") directory and described using YAML frontmatter & markdown.
 
 ```md
 ---
