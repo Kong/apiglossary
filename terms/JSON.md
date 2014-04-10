@@ -5,7 +5,7 @@ author: Montana Flynn
 type: Acronym
 ---
 
-'''
+```
 {
 "title": "Example JSON",
   "published": true,
@@ -15,4 +15,4 @@ type: Acronym
     "Author": "Montana Flynn"
   }
 }
-'''
+```
