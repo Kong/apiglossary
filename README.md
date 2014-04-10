@@ -1,8 +1,8 @@
 # API Glossary
-A side project to help define API related terminology. 
+An ambitious project to collectively help define API related terminology. *Feedback, suggestions and lively discussion are highly encouraged.*
 
 ## Contributing
-Anyone can contribute through a submitting a pull request or by opening an issue. Terms are located in the terms directory and described with YAML frontmatter & markdown like so:
+Anyone can contribute through a submitting a pull request or by opening an issue. Terms are located in the `/terms` directory and described using YAML frontmatter & markdown.
 
 ```md
 ---
@@ -14,7 +14,5 @@ author: Montana Flynn
 ## GitHub Flavored Markdown
 Where you can put detailed content such as examples, diagrams, related terms, etc... 
 ```
-
-### See the existing `/terms` for more examples.
 
 ![API Cat](http://i.imgur.com/6KTUN42.jpg "Core Contributer")
