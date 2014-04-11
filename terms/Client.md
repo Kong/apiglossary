@@ -5,3 +5,5 @@ author: Montana Flynn
 ---
 
 A client is anything that can obtain a service provided by another server. Fat Clients are clients that performs the majority of the logic and data processing itself, while a Thin Client presents preprocessed data to the viewer.
+
+![Client Model](https://github.com/Mashape/apiglossary/terms/client.png "Client Model)
