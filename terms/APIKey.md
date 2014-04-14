@@ -1,5 +1,5 @@
 ---
 term: API Key
-description: A code passed in to an API request to identify the request.
+description: An authorization code passed in to an API request via a header or parameter to identify the requester.
 author: Ben Goldhaber
 ---
