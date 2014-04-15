@@ -2,7 +2,7 @@
 An educational and collaborative project with the mission to help define a new API industry. 
 
 - Get the foundational knowledge you need to dive right into API use, design, and development.
-- Explain APIs and related technology to a nontechs, without mumbling something from the RFC.
+- Explain APIs and related technology to nontechs, without mumbling something from the RFC.
 - Develop your own API using industry leading standards, design patterns and documentation.
 
 ## Contributing
