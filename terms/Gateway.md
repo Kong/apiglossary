@@ -1,5 +1,6 @@
 ---
 term: Gateway
 description: A proxy that translates between protocols.
-author: Ben Goldhaber
 ---
+
+Here you can put detailed markdown content such as examples, diagrams, related terms, etc... 

@@ -1,6 +1,6 @@
 ---
 term: Last-Modified
 description: Header which tells client the last time representation changed. Important for conditional If-Modified-Since requests.
-author: Ben Goldhaber
 ---
 
+Here you can put detailed markdown content such as examples, diagrams, related terms, etc... 

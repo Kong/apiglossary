@@ -1,5 +1,6 @@
 ---
 term: Mashup
 description: Combining multiple APIs to create a new web application.
-author: Ben Goldhaber
 ---
+
+Here you can put detailed markdown content such as examples, diagrams, related terms, etc... 

@@ -1,6 +1,6 @@
 ---
 term: Host
 description: Header containing the domain name of the request URL.
-author: Ben Goldhaber
 ---
 
+Here you can put detailed markdown content such as examples, diagrams, related terms, etc... 

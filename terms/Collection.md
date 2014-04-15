@@ -1,6 +1,6 @@
 ---
 term: Collection
 description: An API resource that groups other resources together.
-author: Ben Goldhaber
 ---
 
+Here you can put detailed markdown content such as examples, diagrams, related terms, etc... 

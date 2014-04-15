@@ -1,5 +1,6 @@
 ---
 term: Semantic Content
 description: Adding meaning to web resources through the use of specialized tags. 
-author: Ben Goldhaber
 ---
+
+Here you can put detailed markdown content such as examples, diagrams, related terms, etc... 
