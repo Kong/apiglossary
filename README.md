@@ -15,7 +15,6 @@ Existing terms are located in the [`terms`](https://github.com/Mashape/apiglossa
 ---
 term: Term
 description: A short description of the term that will be used on the index.
-author: Montana Flynn
 ---
 
 ## GitHub Flavored Markdown
