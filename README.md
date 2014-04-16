@@ -7,9 +7,9 @@ An educational and collaborative project with the mission to help define a new A
 
 ## Contributing
 
-Everyone is welcome to contribute by submitting a pull request, opening an issue or sharing the project. *Any and all feedback, suggestions and lively discussions are highly encouraged.*
+*Any and all feedback, suggestions and lively discussions are highly encouraged.*
 
-Existing terms are located in the [`terms`](https://github.com/Mashape/apiglossary/tree/master/terms "View existing terms or add your own.") directory and described using YAML frontmatter & markdown.
+Everyone is welcome to contribute by submitting a pull request, opening an issue or sharing the project. Existing terms are located in the [`terms`](https://github.com/Mashape/apiglossary/tree/master/terms "View existing terms or add your own.") directory and described using YAML frontmatter & markdown. Please make sure filenames contain no spaces and end with the `.md` extension. 
 
 ```md
 ---
